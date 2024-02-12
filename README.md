@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1134165530929004585/1206642872347004998/XE3N_PRO.mp4" alt="Hey, I'm XE3N" />
+<img src="https://media.discordapp.net/attachments/1134165530929004585/1206643417459720192/XE3N_PRO.png" alt="Hey, I'm XE3N" />
 <!--
 How did I make the fabulous banner?
 Well, I did it using canva.com, nothing fancy completely free :)
