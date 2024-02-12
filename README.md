@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/hedythedev/hedythedev/master/assets/hedylibanner.png" alt="Hey, I'm XE3N" />
+<img src="https://cdn.discordapp.com/attachments/1134165530929004585/1206642872347004998/XE3N_PRO.mp4?ex=65dcc0bf&is=65ca4bbf&hm=47c95ac2706995dca259b5e4c9c6340d58ac48cc929474a97782bf4c577443c0&" alt="Hey, I'm XE3N" />
 <!--
 How did I make the fabulous banner?
 Well, I did it using canva.com, nothing fancy completely free :)
