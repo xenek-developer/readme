@@ -1,4 +1,4 @@
-<img width='1050' src="https://media.discordapp.net/attachments/1134165530929004585/1206643417459720192/XE3N_PRO.png?ex=65dcc141&is=65ca4c41&hm=05023761a5a43ae3c78856b319679c727afef115cce7c1bf69709a3eadf13d19&=&format=webp&quality=lossless&width=720&height=405" alt="Hey, I'm XE3N" />
+<img src="https://media.discordapp.net/attachments/1134165530929004585/1206898060261720086/Projekt_bez_nazwy_5.png?ex=65ddae68&is=65cb3968&hm=1d0685459789cb13dab0f6e2dcb8ae2944e37ed86c0957ea997f690fd0ffb2d7&=&format=webp&quality=lossless&width=787&height=300" alt="Hey, I'm XE3N" />
 
 <hr>
 
