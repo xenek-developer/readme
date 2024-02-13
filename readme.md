@@ -2,7 +2,7 @@
 
 ## My Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=cloudflare,html,css,docker,figma,jquery,lua,mysql,nodejs,php,react,tailwind,vue,ts,prisma,nextjs)](https://discord.gg/DJh7kFmKMW)
+[![My Skills](https://skills.thijs.gg/icons?i=cloudflare,html,css,docker,figma,jquery,lua,mysql,nodejs,php,react,tailwind,vue,ts,nextjs)](https://discord.gg/DJh7kFmKMW)
 
 ## About me
 
