@@ -2,9 +2,9 @@
 
 ## My Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=cloudflare,html,css,docker,figma,jquery,lua,mysql,nodejs,php,react,tailwind,vue)](https://discord.gg/DJh7kFmKMW)
+[![My Skills](https://skills.thijs.gg/icons?i=cloudflare,html,css,docker,figma,jquery,lua,mysql,nodejs,php,react,tailwind,vue,ts,prisma,nextjs)](https://discord.gg/DJh7kFmKMW)
 
-<hr>
+## About me
 
 - 🔭 I’m currently working on  **[SummerHosting](https://summerhosting.pl)**
 - 📫 How to reach me (use one of the following ways):
