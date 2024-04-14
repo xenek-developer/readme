@@ -12,7 +12,7 @@
    - **[Email](mailto:xenek.developer@gmail.com)**
 - ⚡ Fun facts: 
    - He trolls multiplayer games 🎮
-   - I *try* to live entirely in the terminal :computer:
+   - I *try* to live entirely in the GUI :computer:
    - Favorite emoji: :smirk: (the *smirk*)
 
 <hr>
