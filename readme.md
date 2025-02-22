@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Patrick</h1>
-<h3 align="center">A passionate Full-Stack developer from Poland</h3>
+<h1>Hi 👋, I'm Patrick</h1>
+<h3>A passionate Full-Stack developer from Poland</h3>
 
 - 🔭 I’m currently working on [Ixonity Group](https://ixonity.com)
 
