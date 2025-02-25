@@ -4,7 +4,10 @@
 - 🔭 I’m currently working on [Ixonity Group](https://ixonity.com)
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/concordxe"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="concordxe" /></a></p><br><br>
